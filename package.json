@@ -1,5 +1,6 @@
 {   "author": "Douglas Kagai",
 	"license": "BSD",
+	"version": "1.2.0",
 	"keywords": ["freecodecamp", "education", "NGO","Learning"],
 	"description": "a short summary of what your project does which is helpful for both user and future developers who will manage the project",
 	"name": "fcc-learn-npm-package-json",
